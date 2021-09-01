@@ -1,4 +1,5 @@
 # Front End Technical Assessment
+A take home assessment designed for Front End developers
 
 ## Aircraft scheduling
 Your group of friends have founded a very successful airline and now struggle to optimise utilisation of those expensive aircrafts across the hundreds of routes you have opened.
