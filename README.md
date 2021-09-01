@@ -1,4 +1,4 @@
-# take-home-assessment
+# Fullstack Technical Assessment
 A take home assessment designed for Full-stack or Backend developers
 ## Best matched restaurants
 ### Introduction
