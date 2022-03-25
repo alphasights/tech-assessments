@@ -6,7 +6,7 @@ This assessment is designed to test your thinking process and coding skills when
 
 Since this assessment includes a searching function, we kindly ask you to avoid out of box search engines such as ElasticSearch. Instead, you should write the searching logic by yourself. Other than that, please feel free to use any languages or frameworks you are familiar with. We are focusing on your idea and your code quality, hence will not make judgments on what technologies you choose. All the data you will need in this assessment will be provided to you as **.csv** files.
 
-When you are done, please return the task by email, or via Github. We expect to receive your response within 3 days after you received this assessment.
+When you are done, please return the task by email. We expect to receive your response within 3 days after you received this assessment.
 
 *Note: We expect you to do this assessment by yourself without other people's help. We ask you to keep this assessment private and not to share it with others. All data provided are fake and used only for this assessment.*
 
