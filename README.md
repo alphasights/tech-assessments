@@ -41,8 +41,6 @@ A number of simplifications should be introduced for this initial implementation
 	
 Departure/arrival times are expressed in _number of seconds past midnight_. For your convenience if needed, a readable version (as a string) is also provided by the API.
 
-The API supports pagination via the `offset` and `limit` query parameters.
-
 Please note while the use of the API is recommended, please feel free to get started using the attached two json files if it avoids spending too much time integrating the API.
 
 ### Getting started
