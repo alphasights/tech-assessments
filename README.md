@@ -36,8 +36,8 @@ A number of simplifications should be introduced for this initial implementation
  
 ### Technical aspect
 * Data is available in JSON format from the following REST end points:
-	* Aircrafts: https://infinite-dawn-93085.herokuapp.com/aircrafts and e.g. https://infinite-dawn-93085.herokuapp.com/aircrafts/GABCD
-	* Flights: https://infinite-dawn-93085.herokuapp.com/flights and e.g. https://infinite-dawn-93085.herokuapp.com/flights/AS1234
+	* Aircrafts: https://recruiting-assessment.alphasights.com/api/aircrafts and e.g. https://recruiting-assessment.alphasights.com/api/aircrafts/AS1001
+	* Flights: https://recruiting-assessment.alphasights.com/api/flights and e.g. https://recruiting-assessment.alphasights.com/api/flights/AS1001
 	
 Departure/arrival times are expressed in _number of seconds past midnight_. For your convenience if needed, a readable version (as a string) is also provided by the API.
 
