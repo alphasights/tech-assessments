@@ -4,7 +4,14 @@ A take home assessment designed for Full-stack or Backend developers
 ### Introduction
 This assessment is designed to test your thinking process and coding skills when facing a real industry problem. We will assess you based on the requirements listed in the problem description below. Please note that we're looking for code that is clean, readable, testable, robust, performant, and maintainable. If you continue to our interview panel stage, we will ask you questions about your implementation.
 
-Since this assessment includes a searching function, we kindly ask you to avoid out of box search engines such as ElasticSearch. Instead, you should write the searching logic by yourself. Other than that, please feel free to use any languages or frameworks you are familiar with. We are focusing on your idea and your code quality, hence will not make judgments on what technologies you choose. All the data you will need in this assessment will be provided to you as **.csv** files.
+Since this assessment includes a searching function, we kindly ask you to avoid out of box search engines such as ElasticSearch. Instead, you should write the searching logic by yourself. Other than that, please choose one of the below languages
+- Java
+- Kotlin
+- JavaScript
+- Ruby
+- Python
+
+and any frameworks you are familiar with to complete the assessment. We are focusing on your idea and your code quality, hence will not make judgments on what technologies you choose. All the data you will need in this assessment will be provided to you as **.csv** files.
 
 When you are done, please return the task by email. We expect to receive your response within 3 days after you received this assessment.
 
