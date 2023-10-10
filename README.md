@@ -4,14 +4,13 @@ A take home assessment designed for Full-stack or Backend developers
 ### Introduction
 This assessment is designed to test your thinking process and coding skills when facing a real industry problem. We will assess you based on the requirements listed in the problem description below. Please note that we're looking for code that is clean, readable, testable, robust, performant, and maintainable. If you continue to our interview panel stage, we will ask you questions about your implementation.
 
-Since this assessment includes a searching function, we kindly ask you to avoid out of box search engines such as ElasticSearch. Instead, you should write the searching logic by yourself. Other than that, please choose one of the below languages
+Since this assessment includes a searching function, we kindly ask you to avoid out of box search engines such as ElasticSearch. Instead, you should write the searching logic by yourself. Also, please choose one of the below languages
 - Java
 - Kotlin
 - JavaScript
 - Ruby
-- Python
 
-and any frameworks you are familiar with to complete the assessment. We are focusing on your idea and your code quality, hence will not make judgments on what technologies you choose. All the data you will need in this assessment will be provided to you as **.csv** files.
+and any frameworks you are familiar with to complete the assessment. We are focusing on your idea and your code quality, hence will not make judgments on which technologies you choose. All the data you will need in this assessment will be provided to you as **.csv** files.
 
 When you are done, please return the task by email. We expect to receive your response within 3 days after you received this assessment.
 
@@ -37,3 +36,10 @@ You have data about local restaurants located near your company, which you can f
      - After the above process, if two matches are still equal, then you can randomly decide the order.
      - Example: if the input is Customer Rating = 3 and Price = 15. Mcdonald’s is 4 stars with an average spend = $10, and it is 1 mile away. And KFC is 3 stars with an average spend = $8, and it is 1 mile away. Then we should consider Mcdonald’s as a better match than KFC. (They both matches the search criteria -> we compare distance -> we get a tie -> we then compare customer rating -> Mcdonald’s wins)
 5. The final submitted work should include a README file. No UI is required in this assessment, but you may implement one if you would like. **The steps to run and test your program should be clearly introduced in the README file.** If you have made any additional **Assumptions** besides what we have listed above while working on this assessment, please document them so that we can better understand your solution.
+
+### Evaluation
+Your work will be evaluated with the following criteria:
+
+- Functionality: the app fulfills the requirements, with no major bugs.
+- Maintainability: the code is clean, extensible, and easy to work with.
+- Usability: the user will be able to easily use your program to get the desired results, with minimal or no instruction.
