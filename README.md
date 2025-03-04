@@ -57,3 +57,4 @@ Your app will be evaluated with the following criteria, by decreasing level of i
 * Maintainability: the code is clear and easy to work with.
 * Usability: the user will be able to easily interact with the app, with minimal or no instruction.
 * Visual design: the app is reasonably pleasing to the eye.
+* Testing: don't worry about coverage but do showcase your familiarity with testing.
